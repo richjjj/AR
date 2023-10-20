@@ -9,4 +9,4 @@ Augmented Reality 是增强现实，虚实结合。
 商业产品：比较成熟的三维重建软件如RealityCapture 、CC、PhotoScan
 
  
-体验：https://neogoma.com/， app store：Stardust world-scale AR
+体验：https://neogoma.com ，app store：Stardust world-scale AR
